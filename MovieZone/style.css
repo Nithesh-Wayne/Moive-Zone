@@ -1,0 +1,103 @@
+/* CSS Document */
+.mainheader
+{
+	height:150px;
+	width:990px;
+	background-image:url(img/bg.png);
+	margin-left:auto;
+	margin-right:auto;
+}
+.header
+{
+	height:110px;
+	width:990px;
+	float:left;
+}
+.logo
+{
+	height:110px;
+	width:126px;
+	float:left;
+}
+.project_name
+{
+	height:110px;
+	width:740px;
+	float:left;
+}
+.main
+{
+	font-size:36px;
+	color:#000;
+	position:relative;
+	top:20px;
+	left:180px;
+}
+.menu
+{
+	height:40px;
+	width:990px;
+	background-color:#09C;
+    float:left;
+}
+.menu  nav ul li a
+{
+	text-decoration:none;
+    color:#000000;
+    font-size: 24px;
+	top:10px;
+}
+.menu nav ul li
+{
+	top:2px;
+	display:inline;
+    padding: 38px;
+}
+
+.movies
+{
+	height:100%;
+	width:990px;
+	background-image:url(img/bg.png);
+	margin-left:auto;
+	margin-right:auto;
+}
+.trailer
+{
+	heigth:100%;
+	width:990px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.theatre
+{
+	heigth:100%;
+	width:990px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.support
+{heigth:100%;
+	width:990px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.support1
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+ 
+ 
+.footer
+{
+	height:40px;
+	width:990px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#09C;
+}
+.copy
+{
+	text-align:center;
+}
